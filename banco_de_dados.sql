@@ -122,7 +122,7 @@ LOCK TABLES `usuarios` WRITE;
 
 INSERT INTO `usuarios` (`id`, `nome`, `email`, `senha`, `telefone`)
 VALUES
-	(1,'Bonieky','suporte@b7web.com.br','202cb962ac59075b964b07152d234b70','99999999');
+	(1,'Carolina Cabril','carolina-cabril@hotmail.com','202cb962ac59075b964b07152d234b70','99999999');
 
 /*!40000 ALTER TABLE `usuarios` ENABLE KEYS */;
 UNLOCK TABLES;
